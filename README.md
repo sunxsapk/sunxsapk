@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm therealsunx</h1>
 <h3 align="center">Dynamic Game and Web developer from Nepal.</h3>
 
-- 👨‍💻 Check out this window to me [therealsunx.github.io]
+- 👨‍💻 Check out this [window to me](https://therealsunx.github.io)
 
 - 📫 How to reach me **sunx.sapk@gmail.com**
 

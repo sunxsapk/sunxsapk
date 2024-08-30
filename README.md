@@ -1,9 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sunil Sapkota (therealsunx)</h1>
 <h3 align="center">I make games, game engines, web-apps, and do some weird projects.</h3>
-<p><img align="center" src="https://therealsunx.github.io/images/therealsunx.svg" /></p>
 
-- 👨‍💻 Check out [therealsunx.github.io](https://therealsunx.github.io) for all relevant information, or to leave me a message.
-- 📫 Mail me at **therealsunx@gmail.com**
+
+<p align="center"><img width="256" src="https://therealsunx.github.io/images/therealsunx.svg" /></p>
+
+<h2>How it works ?</h2>
+
+```mermaid
+graph TD;
+
+    X[You]-->A[<a href="https://therealsunx.github.io">therealsunx.github.io</a>];
+    X-->B[<a href="mailto:therealsunx@gmail.com">therealsunx@gmail.com</a>];
+    X-->C[<a href="https://linkedin.com/in/therealsunx">linkedin/therealsunx</a>];
+    A-->ME;
+    B-->ME;
+    C-->ME
+    ME==>Y[Amazed by your mail];
+    Y==>Z[Reaching back to you];
+    Z==>P[Now we discuss further];
+```
+
+-  Check out [therealsunx.github.io](https://therealsunx.github.io) for all relevant information, or to leave me a message.
+-  Mail me at **therealsunx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

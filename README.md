@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sunil Sapkota (therealsunx)</h1>
 <h3 align="center">I make games, game engines, web-apps, and do some weird projects.</h3>
+<p><img align="center" src="https://therealsunx.github.io/images/therealsunx.svg" /></p>
 
-- 👨‍💻 Check out my [portfolio](https://therealsunx.github.io) for all relevant information, or to leave me a message.
-or just,
+- 👨‍💻 Check out [therealsunx.github.io](https://therealsunx.github.io) for all relevant information, or to leave me a message.
 - 📫 Mail me at **therealsunx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

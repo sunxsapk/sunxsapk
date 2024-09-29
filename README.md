@@ -4,7 +4,7 @@
 
 <p align="center"><img width="256" src="https://therealsunx.github.io/images/therealsunx.svg" /></p>
 
-<h2>How it works ?</h2>
+<h2>Contact me</h2>
 
 ```mermaid
 graph TD;
@@ -14,10 +14,7 @@ graph TD;
     X-->C[<a href="https://linkedin.com/in/therealsunx">linkedin/therealsunx</a>];
     A-->ME;
     B-->ME;
-    C-->ME
-    ME==>Y[Amazed by your mail];
-    Y==>Z[Reaching back to you];
-    Z==>P[Now we discuss further];
+    C-->ME;
 ```
 
 -  Check out [therealsunx.github.io](https://therealsunx.github.io) for all relevant information, or to leave me a message.

@@ -4,19 +4,6 @@
 
 <p align="center"><img width="256" src="https://therealsunx.github.io/images/therealsunx.svg" /></p>
 
-<h2>Contact me</h2>
-
-```mermaid
-graph TD;
-
-    X[You]-->A[<a href="https://therealsunx.github.io">therealsunx.github.io</a>];
-    X-->B[<a href="mailto:therealsunx@gmail.com">therealsunx@gmail.com</a>];
-    X-->C[<a href="https://linkedin.com/in/therealsunx">linkedin/therealsunx</a>];
-    A-->ME;
-    B-->ME;
-    C-->ME;
-```
-
 -  Check out [therealsunx.github.io](https://therealsunx.github.io) for all relevant information, or to leave me a message.
 -  Mail me at **therealsunx@gmail.com**
 
